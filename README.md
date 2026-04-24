@@ -4,9 +4,6 @@
 
   Dự án này không chỉ là một cây thông, nó là một phòng trưng bày tương tác mang đầy kỷ niệm. Hàng chục nghìn hạt có phát sáng, ánh sáng rực rỡ và những bức ảnh Polaroid lơ lửng tạo nên một cây thông noel sang trọng. Người dùng có thể kiểm soát hình dạng của cây (nhập/phân tán) và xoay góc nhìn thông qua cử chỉ, tận hưởng trải nghiệm hình ảnh cấp bộ phim.
 
-  ![Project Preview](public/preview.png)
-  *(Ghi chú: Khuyến khích tải lên ảnh chụp màn hình dự án của bạn tại đây)*
-
   ## ✨ Tính Năng Cốt Lõi
 
   * **Trải Nghiệm Hình Ảnh Tuyệt Vời**：Thân cây được tạo thành từ 45,000+ hạt phát sáng, kết hợp với hiệu ứng sáng động (Bloom) và hiệu ứng phát sáng, tạo không khí mơ mộng.
